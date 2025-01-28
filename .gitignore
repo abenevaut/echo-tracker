@@ -1,0 +1,8 @@
+/dist
+/vendor
+/.idea
+/.vscode
+/.vagrant
+.phpunit.result.cache
+xdebug-errors.log
+socials.json
